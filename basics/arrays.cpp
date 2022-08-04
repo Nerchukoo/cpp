@@ -1,5 +1,7 @@
 int main() {
     
+    // Remark : Generally, in Modern C++, one should prefer std::array & std::vector over the raw arrays described here.
+
     // Declare an array of char type with known size
     char a[5];
 
